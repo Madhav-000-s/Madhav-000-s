@@ -17,13 +17,14 @@
 
 Third-year Computer Science student passionate about building full-stack applications that solve real problems. I love working across the entire stack—from crafting smooth animations with GSAP and Three.js to architecting scalable backends with efficient databases.
 
-Currently exploring the intersection of **web development** and **artificial intelligence**, building projects that leverage modern AI capabilities while maintaining clean, production-ready code.
+machine learning enthusiast with hands-on internship experience and active side projects using ML models to solve real world problems. Experienced in building intelligent systems using PyTorch, scikit-learn, and modern LLMs.
 
 **What I'm up to:**
 - 🔭 Building full-stack apps with Next.js, React, and TypeScript
-- 🤖 Integrating AI/ML into web applications
+- 🤖 Integrating ML models and LLMs into web applications
 - 📱 Developing cross-platform mobile apps with React Native
 - 🎨 Creating immersive experiences with GSAP and Three.js
+- 🧠 Training and deploying ML models for real-world applications
 
 ---
 
@@ -70,7 +71,8 @@ Currently exploring the intersection of **web development** and **artificial int
 ## 💼 What I Do
 
 - **Full-Stack Development:** End-to-end application development from database design to polished UI
-- **AI Integration:** Building intelligent applications with LLMs, computer vision, and ML models
+- **Machine Learning:** Internship experience + active projects deploying ML models
+- **AI Integration:** Building intelligent applications with LLMs, computer vision, and custom ML models
 - **Modern Web:** Production-ready patterns with Next.js, Server Components, and TypeScript
 - **Animation & 3D:** Creating immersive experiences with GSAP, Three.js, and smooth interactions
 
