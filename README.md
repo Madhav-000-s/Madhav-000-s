@@ -1,16 +1,88 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Madhav-000-s/Madhav-000-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey, I'm Madhavendranath
 
-Here are some ideas to get you started:
+### Full-Stack Developer | AI Enthusiast | CS Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Building production-grade web applications with modern technologies*
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhavendranath-s/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhavendranaths@gmail.com)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+Third-year Computer Science student passionate about building full-stack applications that solve real problems. I love working across the entire stack—from crafting smooth animations with GSAP and Three.js to architecting scalable backends with efficient databases.
+
+Currently exploring the intersection of **web development** and **artificial intelligence**, building projects that leverage modern AI capabilities while maintaining clean, production-ready code.
+
+**What I'm up to:**
+- 🔭 Building full-stack apps with Next.js, React, and TypeScript
+- 🤖 Integrating AI/ML into web applications
+- 📱 Developing cross-platform mobile apps with React Native
+- 🎨 Creating immersive experiences with GSAP and Three.js
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Appwrite](https://img.shields.io/badge/-Appwrite-F02E65?style=flat-square&logo=appwrite&logoColor=white)
+
+### AI & Machine Learning
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat-square&logo=chainlink&logoColor=white)
+
+### Mobile
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
+
+---
+
+## 📊 Most Used Languages
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhav-000-s&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8)
+
+</div>
+
+---
+
+## 💼 What I Do
+
+- **Full-Stack Development:** End-to-end application development from database design to polished UI
+- **AI Integration:** Building intelligent applications with LLMs, computer vision, and ML models
+- **Modern Web:** Production-ready patterns with Next.js, Server Components, and TypeScript
+- **Animation & 3D:** Creating immersive experiences with GSAP, Three.js, and smooth interactions
+
+---
+
+## 📫 Let's Connect
+
+Open to **internships**, **freelance projects**, and **collaboration opportunities**!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhavendranath-s/)
+[![Email](https://img.shields.io/badge/-Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhavendranaths@gmail.com)
+
+</div>
