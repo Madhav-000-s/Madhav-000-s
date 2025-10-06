@@ -57,17 +57,6 @@ machine learning enthusiast with hands-on internship experience and active side 
 ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
 ---
-
-## 📊 Most Used Languages
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhav-000-s&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8)
-
-</div>
-
----
-
 ## 💼 What I Do
 
 - **Full-Stack Development:** End-to-end application development from database design to polished UI
