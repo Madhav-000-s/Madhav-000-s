@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=200&section=header&text=Madhavendranath&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff" />
+# 👋 Hi, I'm Madhavendranath
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Machine+Learning+Engineer;Building+AI-Powered+Web+Applications;PERN+%7C+MERN+%7C+Next.js+%7C+React+Native)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Machine+Learning+Engineer;Building+AI-Powered+Web+Applications;PERN+%7C+MERN+%7C+Next.js+%7C+React+Native)](https://git.io/typing-svg)
 
