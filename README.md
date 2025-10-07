@@ -1,9 +1,6 @@
 <div align="center">
 
 # 👋 Hi, I'm Madhavendranath
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Machine+Learning+Engineer;Building+AI-Powered+Web+Applications;PERN+%7C+MERN+%7C+Next.js+%7C+React+Native)](https://git.io/typing-svg)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Machine+Learning+Engineer;Building+AI-Powered+Web+Applications;PERN+%7C+MERN+%7C+Next.js+%7C+React+Native)](https://git.io/typing-svg)
 
 *Building production-grade web applications with modern technologies*
