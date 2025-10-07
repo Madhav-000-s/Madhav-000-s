@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=32&duration=2500&pause=1000&color=667EEA&center=true&vCenter=true&width=900&height=80&lines=%E2%9A%A1+Next.js+%7C+React+%7C+TypeScript;%F0%9F%A4%96+PyTorch+%7C+LangChain+%7C+ML+Models;%F0%9F%8E%A8+GSAP+%7C+Three.js+%7C+Animations" />
+
 # 👋 Hi, I'm Madhavendranath
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Machine+Learning+Engineer;Building+AI-Powered+Web+Applications;PERN+%7C+MERN+%7C+Next.js+%7C+React+Native)](https://git.io/typing-svg)
 
