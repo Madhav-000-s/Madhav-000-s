@@ -9,6 +9,8 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhavendranaths@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-212121?style=for-the-badge&logo=react&logoColor=white)](https://portfolio-gilt-sigma.vercel.app/)
 
+</div>
+
 ---
 
 ## 🚀 About Me
