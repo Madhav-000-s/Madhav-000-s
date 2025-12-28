@@ -5,9 +5,15 @@
 
 *Building production-grade web applications with modern technologies*
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhavendranath-s/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhavendranaths@gmail.com)
-
+<a href="https://www.linkedin.com/in/madhavendranath-s/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:madhavendranaths@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://portfolio-gilt-sigma.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/-Portfolio-212121?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
+</a>
 </div>
 
 ---
