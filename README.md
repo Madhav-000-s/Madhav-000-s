@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&fontSize=30&fontAlign=50&fontAlignY=40&animation=fadeIn&text=👋%20Hi,%20I'm%20Madhavendranath&fontColor=ffffff" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=ML+%2F+AI+Engineer;Quantitative+Developer+in+the+making;Full-Stack+Builder+%7C+Systems+Curious;Published+ML+Researcher+%E2%80%A2+IIIT+Kottayam)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=ML+%2F+AI+Engineer;Full-Stack+Builder+%7C+Systems+Curious;Published+ML+Researcher+%E2%80%A2+IIIT+Kottayam)](https://git.io/typing-svg)
 
 *Building production-grade ML systems, quant models, and full-stack applications*
 
