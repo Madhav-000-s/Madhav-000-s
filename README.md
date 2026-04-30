@@ -1,9 +1,8 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&fontSize=30&fontAlign=50&fontAlignY=40&animation=fadeIn&text=👋%20Hi,%20I'm%20Madhavendranath&fontColor=ffffff" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=ML+%2F+AI+Engineer;Full-Stack+Builder+%7C+Systems+Curious;Published+ML+Researcher+%E2%80%A2+IIIT+Kottayam)](https://git.io/typing-svg)
+  <img src="assets/header.svg" />
 
-*Building production-grade ML systems, quant models, and full-stack applications*
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhavendranath-s/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhavendranaths@gmail.com)
@@ -12,19 +11,18 @@
 </div>
 
 ---
-
-## 🚀 About Me
+# About Me
 
 Third-year B.Tech student in **AI & Data Science at IIIT Kottayam**, working on  machine learning, web development and systems engineering. Co-author on a published research paper in *Biomedical Physics & Engineering Express* (2025) on temporal patient trajectory modelling using LSTM autoencoders on EHR data.
 
 I like building things that are technically interesting end-to-end — from RAG pipelines with hybrid retrieval and cross-encoder re-ranking, to LSTM-based portfolio optimisers with custom Sharpe-ratio losses, to compiler/linker projects in C and Rust.
 
 **What I'm currently working on:**
-- 📄 Building RAG systems with hybrid retrieval (pgvector + BM25), RRF, and cross-encoder re-ranking
-- 📈 Deep-learning-based portfolio optimisation (PyTorch, LSTM, FinBERT)
-- ⚙️ Systems projects — an ELF static linker and an LLVM-based mini C compiler targeting NVPTX
-- 🧠 Healthcare ML research on longitudinal EHR data (MIMIC-IV)
-- 🏗️ Production full-stack apps with Next.js, FastAPI, and PostgreSQL
+-  Building RAG systems with hybrid retrieval (pgvector + BM25), RRF, and cross-encoder re-ranking
+-  Deep-learning-based portfolio optimisation (PyTorch, LSTM, FinBERT)
+-  Systems projects — an ELF static linker and an LLVM-based mini C compiler targeting NVPTX
+-  Healthcare ML research on longitudinal EHR data (MIMIC-IV)
+-  Production full-stack apps with Next.js, FastAPI, and PostgreSQL
 ts
 
 ---
@@ -80,7 +78,7 @@ ts
 
 ---
 
-## 💼 What I Do
+##  What I Do
 
 - **Machine Learning & Research:** Published research in healthcare ML; building models on time-series, NLP, and computer vision tasks with PyTorch and scikit-learn.
 - **Retrieval-Augmented AI:** Production RAG pipelines with dense + sparse hybrid retrieval, Reciprocal Rank Fusion, cross-encoder re-ranking, and citation-grounded generation.
@@ -90,7 +88,7 @@ ts
 
 ---
 
-## 📊 Languages
+##  Languages
 
 <div align="center">
 
