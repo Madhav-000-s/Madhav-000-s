@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=ML+%2F+AI+Engineer;Full-Stack+Builder+%7C+Systems+Curious;Published+ML+Researcher+%E2%80%A2+IIIT+Kottayam)](https://git.io/typing-svg)
 
-*Building production-grade ML systems, quant models, and full-stack applications*
+*Building production-grade ML systems and full-stack applications*
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhavendranath-s/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhavendranaths@gmail.com)
