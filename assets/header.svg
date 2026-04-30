@@ -301,7 +301,7 @@
     <!-- FULLSTACK bar -->
     <text x="16" y="125">
       <tspan fill="#00ffcc">&gt;</tspan>
-      <tspan fill="#888888"> STACK    </tspan>
+      <tspan fill="#888888"> FULL STACK    </tspan>
       <tspan fill="#ccffcc">[</tspan><tspan fill="#39ff14">█████████████████░░░</tspan><tspan fill="#1f4a1f">░░░░░░░</tspan><tspan fill="#ccffcc">]</tspan>
       <tspan fill="#aaffaa"> 77%</tspan>
     </text>
@@ -339,14 +339,15 @@
       <tspan fill="#33aa33">drwxr-xr-x</tspan>
       <tspan fill="#555">  user  </tspan>
       <tspan fill="#00ffcc">★</tspan>
-      <tspan fill="#aaffaa"> neural-net-pipeline</tspan>
+      <tspan fill="#aaffaa"> Multi-Asset-Portfolio-Optimization
+</tspan>
       <tspan fill="#555">    &lt;ML&gt;</tspan>
     </text>
     <text x="16" y="172">
       <tspan fill="#33aa33">drwxr-xr-x</tspan>
       <tspan fill="#555">  user  </tspan>
       <tspan fill="#00ffcc">★</tspan>
-      <tspan fill="#aaffaa"> distributed-system-core</tspan>
+      <tspan fill="#aaffaa"> RAG-research-paper-Intelligence-engine</tspan>
       <tspan fill="#555"> &lt;SYS&gt;</tspan>
     </text>
   </g>
