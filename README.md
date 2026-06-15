@@ -108,16 +108,6 @@ I like building things that are technically interesting end-to-end — from RAG 
 
 ---
 
-`[madhavendranath@arch ~]$ git trophy --username madhav-000-s`
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=madhav-000-s&theme=matrix&rank=-C,-%3F&column=7&margin-w=10&margin-h=10&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 `[madhavendranath@arch ~]$ ./connect --help`
 
 Open to **internships**, **research collaborations**, and **quant / ML / SWE opportunities**.
