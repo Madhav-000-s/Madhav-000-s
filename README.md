@@ -102,8 +102,7 @@ I like building things that are technically interesting end-to-end — from RAG 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhav-000-s&layout=compact&theme=merko&hide_border=true&langs_count=10" />
-
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=madhav-000-s&layout=compact&theme=merko&hide_border=true&langs_count=10" />
 </div>
 
 ---
