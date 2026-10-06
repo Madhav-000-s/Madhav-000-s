@@ -16,7 +16,7 @@
 
 `[madhavendranath@arch ~]$ cat about.md`
 
-Third-year B.Tech student in **AI & Data Science at IIIT Kottayam**, working on machine learning, web development and systems engineering. Co-author on a published research paper in *Biomedical Physics & Engineering Express* (2025) on temporal patient trajectory modelling using LSTM autoencoders on EHR data.
+Final-year B.Tech student in **AI & Data Science at IIIT Kottayam**, working on machine learning, web development and systems engineering. Co-author on a published research paper in *Biomedical Physics & Engineering Express* (2025) on temporal patient trajectory modelling using LSTM autoencoders on EHR data.
 
 I like building things that are technically interesting end-to-end — from RAG pipelines with hybrid retrieval and cross-encoder re-ranking, to LSTM-based portfolio optimisers with custom Sharpe-ratio losses, to compiler/linker projects in C and Rust.
 
